@@ -6,7 +6,7 @@ local Translations = {
         missing_args2 = 'Todos los argumentos estan presente!',
         no_access = 'No tienes acceso a este comando!',
         company_too_poor = 'Tu empresa está en bancarrota. No hay dinero suficiente.',
-        item_not_exist = 'El objeto no existe en el systema.',
+        item_not_exist = 'El objeto no existe en el sistema.',
         too_heavy = 'Tienes el inventario muy lleno.'
     },
     success = {},
